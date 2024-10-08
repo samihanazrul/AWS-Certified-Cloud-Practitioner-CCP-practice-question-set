@@ -3,9 +3,6 @@
 ## Question 1
 What is the primary benefit of using AWS Lambda?
 
-<details>
-<summary>Click for options</summary>
-
 1. A) Reduce costs for server-based applications
 2. B) Automatically scale resources
 3. C) Run code without provisioning servers
@@ -14,7 +11,7 @@ What is the primary benefit of using AWS Lambda?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 C) Run code without provisioning servers
 </details>
 
@@ -23,8 +20,6 @@ C) Run code without provisioning servers
 ## Question 2
 Which AWS service provides a scalable object storage solution?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon S3
 2. B) Amazon EBS
@@ -34,7 +29,7 @@ Which AWS service provides a scalable object storage solution?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon S3
 </details>
 
@@ -43,8 +38,6 @@ A) Amazon S3
 ## Question 3
 What does AWS stand for?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Advanced Web Services
 2. B) Amazon Web Services
@@ -54,7 +47,7 @@ What does AWS stand for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon Web Services
 </details>
 
@@ -63,8 +56,6 @@ B) Amazon Web Services
 ## Question 4
 Which service is used for database management on AWS?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon DynamoDB
 2. B) Amazon EC2
@@ -74,7 +65,7 @@ Which service is used for database management on AWS?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon DynamoDB
 </details>
 
@@ -83,8 +74,7 @@ A) Amazon DynamoDB
 ## Question 5
 What is the primary use of Amazon EC2?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Data warehousing
 2. B) Hosting virtual servers
@@ -94,7 +84,7 @@ What is the primary use of Amazon EC2?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Hosting virtual servers
 </details>
 
@@ -103,8 +93,7 @@ B) Hosting virtual servers
 ## Question 6
 What type of cloud computing service is AWS Lambda?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Infrastructure as a Service (IaaS)
 2. B) Platform as a Service (PaaS)
@@ -114,7 +103,7 @@ What type of cloud computing service is AWS Lambda?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 D) Function as a Service (FaaS)
 </details>
 
@@ -123,8 +112,7 @@ D) Function as a Service (FaaS)
 ## Question 7
 Which AWS service can be used to manage user access?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon IAM
 2. B) Amazon VPC
@@ -134,7 +122,7 @@ Which AWS service can be used to manage user access?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon IAM
 </details>
 
@@ -143,8 +131,7 @@ A) Amazon IAM
 ## Question 8
 What is the purpose of Amazon CloudFront?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Monitoring services
 2. B) Content delivery network
@@ -154,7 +141,7 @@ What is the purpose of Amazon CloudFront?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Content delivery network
 </details>
 
@@ -163,8 +150,6 @@ B) Content delivery network
 ## Question 9
 Which service allows you to run code in response to events?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon EC2
 2. B) AWS Lambda
@@ -174,7 +159,7 @@ Which service allows you to run code in response to events?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) AWS Lambda
 </details>
 
@@ -183,8 +168,7 @@ B) AWS Lambda
 ## Question 10
 What is Amazon RDS primarily used for?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Object storage
 2. B) Relational database management
@@ -194,7 +178,7 @@ What is Amazon RDS primarily used for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Relational database management
 </details>
 
@@ -203,8 +187,7 @@ B) Relational database management
 ## Question 11
 Which AWS service is best for hosting a static website?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon EC2
 2. B) Amazon S3
@@ -214,7 +197,7 @@ Which AWS service is best for hosting a static website?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon S3
 </details>
 
@@ -223,8 +206,7 @@ B) Amazon S3
 ## Question 12
 What is the purpose of Amazon VPC?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Virtual private cloud
 2. B) Data analytics
@@ -234,7 +216,7 @@ What is the purpose of Amazon VPC?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Virtual private cloud
 </details>
 
@@ -242,9 +224,6 @@ A) Virtual private cloud
 
 ## Question 13
 Which service can be used to monitor AWS resources?
-
-<details>
-<summary>Click for options</summary>
 
 1. A) AWS CloudTrail
 2. B) Amazon CloudWatch
@@ -254,7 +233,7 @@ Which service can be used to monitor AWS resources?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon CloudWatch
 </details>
 
@@ -263,8 +242,7 @@ B) Amazon CloudWatch
 ## Question 14
 What is Amazon Elastic Beanstalk used for?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Hosting applications
 2. B) Storage management
@@ -274,7 +252,7 @@ What is Amazon Elastic Beanstalk used for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Hosting applications
 </details>
 
@@ -283,18 +261,16 @@ A) Hosting applications
 ## Question 15
 Which AWS service is used for serverless application development?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS Lambda
 2. B) Amazon EC2
 3. C) Amazon RDS
 4. D) AWS CloudFormation
-
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) AWS Lambda
 </details>
 
@@ -303,8 +279,7 @@ A) AWS Lambda
 ## Question 16
 What does AWS CloudFormation do?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Manages user permissions
 2. B) Automates infrastructure deployment
@@ -314,7 +289,7 @@ What does AWS CloudFormation do?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Automates infrastructure deployment
 </details>
 
@@ -323,8 +298,7 @@ B) Automates infrastructure deployment
 ## Question 17
 Which AWS service can be used to store files and access them via the internet?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon EBS
 2. B) Amazon S3
@@ -334,7 +308,7 @@ Which AWS service can be used to store files and access them via the internet?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon S3
 </details>
 
@@ -343,8 +317,7 @@ B) Amazon S3
 ## Question 18
 What is the function of AWS Direct Connect?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Secure data transfer
 2. B) Dedicated network connection
@@ -354,7 +327,7 @@ What is the function of AWS Direct Connect?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Dedicated network connection
 </details>
 
@@ -363,8 +336,6 @@ B) Dedicated network connection
 ## Question 19
 Which AWS service is used for managing and deploying applications in containers?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon ECS
 2. B) Amazon S3
@@ -374,7 +345,7 @@ Which AWS service is used for managing and deploying applications in containers?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon ECS
 </details>
 
@@ -383,8 +354,7 @@ A) Amazon ECS
 ## Question 20
 What is the primary benefit of using Amazon Aurora?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) High availability
 2. B) Low latency
@@ -394,7 +364,7 @@ What is the primary benefit of using Amazon Aurora?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) High availability
 </details>
 
@@ -403,8 +373,6 @@ A) High availability
 ## Question 21
 Which service allows you to create and manage virtual networks in AWS?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon VPC
 2. B) AWS Lambda
@@ -414,7 +382,7 @@ Which service allows you to create and manage virtual networks in AWS?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon VPC
 </details>
 
@@ -423,8 +391,6 @@ A) Amazon VPC
 ## Question 22
 What is Amazon SNS primarily used for?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Data storage
 2. B) Message notification
@@ -434,7 +400,7 @@ What is Amazon SNS primarily used for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Message notification
 </details>
 
@@ -443,8 +409,7 @@ B) Message notification
 ## Question 23
 Which AWS service is used for data analytics?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon Redshift
 2. B) Amazon EC2
@@ -454,7 +419,7 @@ Which AWS service is used for data analytics?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon Redshift
 </details>
 
@@ -463,8 +428,7 @@ A) Amazon Redshift
 ## Question 24
 What does AWS Auto Scaling do?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Manages user permissions
 2. B) Adjusts resources based on demand
@@ -474,7 +438,7 @@ What does AWS Auto Scaling do?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Adjusts resources based on demand
 </details>
 
@@ -483,8 +447,6 @@ B) Adjusts resources based on demand
 ## Question 25
 Which service allows you to host a relational database in AWS?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Amazon RDS
 2. B) Amazon S3
@@ -494,7 +456,7 @@ Which service allows you to host a relational database in AWS?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon RDS
 </details>
 
@@ -503,8 +465,7 @@ A) Amazon RDS
 ## Question 26
 What is the purpose of AWS CodePipeline?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Code version control
 2. B) Continuous integration and delivery
@@ -514,7 +475,7 @@ What is the purpose of AWS CodePipeline?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Continuous integration and delivery
 </details>
 
@@ -523,8 +484,7 @@ B) Continuous integration and delivery
 ## Question 27
 Which AWS service provides a scalable email sending service?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon SES
 2. B) Amazon SNS
@@ -534,7 +494,7 @@ Which AWS service provides a scalable email sending service?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon SES
 </details>
 
@@ -543,8 +503,7 @@ A) Amazon SES
 ## Question 28
 What does Amazon CloudTrail do?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Provides monitoring for AWS resources
 2. B) Records AWS API calls
@@ -554,7 +513,7 @@ What does Amazon CloudTrail do?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Records AWS API calls
 </details>
 
@@ -563,8 +522,7 @@ B) Records AWS API calls
 ## Question 29
 Which service is used for building and training machine learning models?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon SageMaker
 2. B) Amazon EC2
@@ -574,7 +532,7 @@ Which service is used for building and training machine learning models?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon SageMaker
 </details>
 
@@ -583,8 +541,7 @@ A) Amazon SageMaker
 ## Question 30
 What is the primary purpose of Amazon Elastic Load Balancing?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Distribute incoming application traffic
 2. B) Host virtual servers
@@ -594,7 +551,7 @@ What is the primary purpose of Amazon Elastic Load Balancing?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Distribute incoming application traffic
 </details>
 
@@ -603,8 +560,7 @@ A) Distribute incoming application traffic
 ## Question 31
 Which AWS service provides a fully managed NoSQL database?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon RDS
 2. B) Amazon DynamoDB
@@ -614,7 +570,7 @@ Which AWS service provides a fully managed NoSQL database?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon DynamoDB
 </details>
 
@@ -623,8 +579,6 @@ B) Amazon DynamoDB
 ## Question 32
 What is Amazon Route 53 used for?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Domain name registration
 2. B) Load balancing
@@ -634,7 +588,7 @@ What is Amazon Route 53 used for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Domain name registration
 </details>
 
@@ -643,8 +597,7 @@ A) Domain name registration
 ## Question 33
 Which AWS service can be used to create and manage RESTful APIs?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon API Gateway
 2. B) AWS Lambda
@@ -654,7 +607,7 @@ Which AWS service can be used to create and manage RESTful APIs?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Amazon API Gateway
 </details>
 
@@ -663,18 +616,17 @@ A) Amazon API Gateway
 ## Question 34
 What is the primary use of Amazon Elastic File System (EFS)?
 
-<details>
-<summary>Click for options</summary>
 
 1. A) Object storage
 2. B) File storage
 3. C) Block storage
 4. D) Database management
 
+
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) File storage
 </details>
 
@@ -683,8 +635,7 @@ B) File storage
 ## Question 35
 Which service helps to track and analyze AWS costs?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS Budgets
 2. B) Amazon CloudWatch
@@ -694,7 +645,7 @@ Which service helps to track and analyze AWS costs?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) AWS Budgets
 </details>
 
@@ -703,8 +654,7 @@ A) AWS Budgets
 ## Question 36
 What does Amazon S3 Stand for?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Simple Storage Service
 2. B) Secure Storage System
@@ -714,7 +664,7 @@ What does Amazon S3 Stand for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Simple Storage Service
 </details>
 
@@ -723,8 +673,7 @@ A) Simple Storage Service
 ## Question 37
 Which AWS service provides a centralized view of billing and usage across multiple accounts?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS Organizations
 2. B) Amazon CloudWatch
@@ -734,7 +683,7 @@ Which AWS service provides a centralized view of billing and usage across multip
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 C) AWS Cost Explorer
 </details>
 
@@ -743,8 +692,7 @@ C) AWS Cost Explorer
 ## Question 38
 Which AWS service provides a scalable file storage solution for use with AWS Cloud services and on-premises resources?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon EBS
 2. B) Amazon S3
@@ -754,7 +702,7 @@ Which AWS service provides a scalable file storage solution for use with AWS Clo
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 C) Amazon EFS
 </details>
 
@@ -763,8 +711,7 @@ C) Amazon EFS
 ## Question 39
 What is Amazon GuardDuty used for?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Network monitoring
 2. B) Threat detection
@@ -774,7 +721,7 @@ What is Amazon GuardDuty used for?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Threat detection
 </details>
 
@@ -783,8 +730,7 @@ B) Threat detection
 ## Question 40
 Which AWS service is used to deploy applications in a serverless environment?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon EC2
 2. B) AWS Lambda
@@ -794,7 +740,7 @@ Which AWS service is used to deploy applications in a serverless environment?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) AWS Lambda
 </details>
 
@@ -803,8 +749,7 @@ B) AWS Lambda
 ## Question 41
 What is the purpose of AWS IAM?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Manage user access and permissions
 2. B) Monitor application performance
@@ -814,7 +759,7 @@ What is the purpose of AWS IAM?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Manage user access and permissions
 </details>
 
@@ -823,8 +768,7 @@ A) Manage user access and permissions
 ## Question 42
 Which service provides a managed Kubernetes environment?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Amazon ECS
 2. B) AWS Lambda
@@ -834,7 +778,7 @@ Which service provides a managed Kubernetes environment?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 C) Amazon EKS
 </details>
 
@@ -843,8 +787,7 @@ C) Amazon EKS
 ## Question 43
 What is the primary benefit of using Amazon CloudFront?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Secure data storage
 2. B) Global content delivery
@@ -854,7 +797,7 @@ What is the primary benefit of using Amazon CloudFront?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Global content delivery
 </details>
 
@@ -863,8 +806,7 @@ B) Global content delivery
 ## Question 44
 Which AWS service is designed for application monitoring and observability?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS CloudTrail
 2. B) Amazon CloudWatch
@@ -874,7 +816,7 @@ Which AWS service is designed for application monitoring and observability?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 B) Amazon CloudWatch
 </details>
 
@@ -883,8 +825,7 @@ B) Amazon CloudWatch
 ## Question 45
 Which AWS service can help with resource tagging and cost allocation?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS Budgets
 2. B) Amazon CloudWatch
@@ -894,7 +835,7 @@ Which AWS service can help with resource tagging and cost allocation?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 D) AWS Resource Groups
 </details>
 
@@ -903,8 +844,7 @@ D) AWS Resource Groups
 ## Question 46
 What is the purpose of Amazon Kinesis?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) Data streaming service
 2. B) Database management
@@ -914,7 +854,7 @@ What is the purpose of Amazon Kinesis?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) Data streaming service
 </details>
 
@@ -923,8 +863,7 @@ A) Data streaming service
 ## Question 47
 Which AWS service is used for serverless event-driven computing?
 
-<details>
-<summary>Click for options</summary>
+
 
 1. A) AWS Lambda
 2. B) Amazon EC2
@@ -934,7 +873,7 @@ Which AWS service is used for serverless event-driven computing?
 </details>
 
 <details>
-<summary>Click for the answer</summary>
+<summary> Answer</summary>
 A) AWS Lambda
 </details>
 
