@@ -877,3 +877,45 @@ Which AWS service is used for serverless event-driven computing?
 A) AWS Lambda
 </details>
 
+## Question 48
+Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?
+1. A) AWS Marketplace
+2. B) Amazon Lumberyard
+3. C) AWS Artifact
+4. D) Amazon CloudSearch
+
+</details>
+
+<details>
+<summary> Answer</summary>
+A) AWS Marketplace
+</details>
+
+## Question 49
+Which task is AWS responsible for in the shared responsibility model for security and compliance?
+1. A) Granting access to individuals and services
+2. B) Encrypting data in transit
+3. C) Updating Amazon EC2 host firmware
+4. D) Updating operating systems
+
+</details>
+
+<details>
+<summary> Answer</summary>
+C) Updating Amazon EC2 host firmware
+</details>
+
+## Question 50
+Which of the following are categories of AWS Trusted Advisor? (Choose two.)
+1. A) Fault tolerance
+2. B) Instance Usage
+3. C) Infrastructure
+4. D) Performance
+5. E) Storage Capacity
+
+</details>
+
+<details>
+<summary> Answer</summary>
+A) Fault tolerance, D) Performance    
+</details>
